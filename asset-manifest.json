@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.379466c0.chunk.css",
-    "main.js": "/static/js/main.d3959abd.chunk.js",
-    "main.js.map": "/static/js/main.d3959abd.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.a06e69b5.js",
-    "runtime-main.js.map": "/static/js/runtime-main.a06e69b5.js.map",
-    "static/js/2.432e9673.chunk.js": "/static/js/2.432e9673.chunk.js",
-    "static/js/2.432e9673.chunk.js.map": "/static/js/2.432e9673.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.379466c0.chunk.css.map": "/static/css/main.379466c0.chunk.css.map",
-    "static/js/2.432e9673.chunk.js.LICENSE.txt": "/static/js/2.432e9673.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/static/media/img-8.fabdf94d.jpg",
-    "static/media/img-3.6d683c0e.jpg": "/static/media/img-3.6d683c0e.jpg",
-    "static/media/img-4.a31875b7.jpg": "/static/media/img-4.a31875b7.jpg",
-    "static/media/img-9.f97f588f.jpg": "/static/media/img-9.f97f588f.jpg",
-    "static/media/video-2.39e6c79b.mp4": "/static/media/video-2.39e6c79b.mp4"
+    "main.css": "/travel-site/static/css/main.a08d0960.chunk.css",
+    "main.js": "/travel-site/static/js/main.d3959abd.chunk.js",
+    "main.js.map": "/travel-site/static/js/main.d3959abd.chunk.js.map",
+    "runtime-main.js": "/travel-site/static/js/runtime-main.c89d907f.js",
+    "runtime-main.js.map": "/travel-site/static/js/runtime-main.c89d907f.js.map",
+    "static/js/2.432e9673.chunk.js": "/travel-site/static/js/2.432e9673.chunk.js",
+    "static/js/2.432e9673.chunk.js.map": "/travel-site/static/js/2.432e9673.chunk.js.map",
+    "index.html": "/travel-site/index.html",
+    "static/css/main.a08d0960.chunk.css.map": "/travel-site/static/css/main.a08d0960.chunk.css.map",
+    "static/js/2.432e9673.chunk.js.LICENSE.txt": "/travel-site/static/js/2.432e9673.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/travel-site/static/media/img-8.fabdf94d.jpg",
+    "static/media/img-3.6d683c0e.jpg": "/travel-site/static/media/img-3.6d683c0e.jpg",
+    "static/media/img-4.a31875b7.jpg": "/travel-site/static/media/img-4.a31875b7.jpg",
+    "static/media/img-9.f97f588f.jpg": "/travel-site/static/media/img-9.f97f588f.jpg",
+    "static/media/video-2.39e6c79b.mp4": "/travel-site/static/media/video-2.39e6c79b.mp4"
   },
   "entrypoints": [
-    "static/js/runtime-main.a06e69b5.js",
+    "static/js/runtime-main.c89d907f.js",
     "static/js/2.432e9673.chunk.js",
-    "static/css/main.379466c0.chunk.css",
+    "static/css/main.a08d0960.chunk.css",
     "static/js/main.d3959abd.chunk.js"
   ]
 }
